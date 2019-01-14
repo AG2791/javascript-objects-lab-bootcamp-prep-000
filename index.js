@@ -1,6 +1,6 @@
  var recipes = {}
 
-function {
+function { 
   
 }
 
